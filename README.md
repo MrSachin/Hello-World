@@ -1,6 +1,6 @@
 # Hello-World
 Hello there,
 
-Just working around to understad the Github concept.
+Just working around to understand the Github concept.
 
 Fine
